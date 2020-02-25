@@ -11,13 +11,22 @@
   apt clean 
 ```
 
-* 프로그램 설치
-  - [한글 글꼴 및 입력기 설치](./install/hangul.md)
+* 프로그램 설치 및 설정
+  - [한글 글꼴 및 입력기](./install/hangul.md)
   - [chrome 설치](./install/chrome.md)
-  - [Visual Studio Code 설치](./install/vscode.md)
-  - [NVM (Node Version Manager) 설치](./install/nvm.md)
+  - [Visual Studio Code](./install/vscode.md)
+  - [NVM (Node Version Manager)](./install/nvm.md)
   - [범용 node.js 설치](./install/nodejs.md)
   - [범용 yarn 설치](./install/yarn.md)
+  - Certbot
+  - Postfix
+  - [composer](./install/composer.md)
+  - [DBeaver](./install/DBeaver.md)
+  - PhpMyAdmin
+  - [golang](./install/golang.md)
+  - [php 7.4.3](./install/php.md)
 
-* 설정
-  - [.bashrc 추가](./settings/bashrc.md)
+* Server 설정
+  - [개인 설정(.bashrc)](./settings/bashrc.md)
+  - Nginx 
+  - MariaDB

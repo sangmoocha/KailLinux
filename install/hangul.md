@@ -7,7 +7,7 @@
 ```
 > 나눔 폰트를 설치를 별로 좋아하지 않아서 d2coding 설치 했다. 
 ### fcitx 설정
-```
+```sh
   fcitx-configtool
 ```
 <p align="center"><img src="https://t1.daumcdn.net/cfile/tistory/99C885365A9BFCD521"></p>
