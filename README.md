@@ -10,6 +10,7 @@
   apt autoclean &&
   apt clean 
 ```
+* [Roadmap to becoming a web developer in 2020](https://github.com/kamranahmedse/developer-roadmap)
 
 * 프로그램 설치 및 설정
   - [한글 글꼴 및 입력기](./install/hangul.md)
