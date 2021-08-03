@@ -3,11 +3,13 @@
 
 > 설치
 ```sh
-  sudo apt-get install golang-go
+  sudo add-apt-repository ppa:longsleep/golang-backports
+  sudo apt update
+  sudo apt install golang-go
 ```
 > 환경 설정 보기
 ```sh
-kali@kali:~$ go env
+  kali@kali:~$ go env
 ```
 > 결과
 ```sh

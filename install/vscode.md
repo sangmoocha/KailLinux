@@ -73,7 +73,12 @@
       </summary>
         파일 업데이트를 감지하여 자동으로 브라우저를 라이브 리로드 해주는 기능도 있기 때문에 코드를 쓰면서 매번 브라우저로 확인해도 되지 않아 리로드 시간을 절약 할 수 있습니다.
     </details>
-  
+  * <details>
+      <summary>
+        HTML to CSS autocompletion
+      </summary>
+        기본 설정은 html/ php>> css/ scss/ less/ sass/ stylusflow를 자동 완성해준다.
+    </details>  
   > JavaScript 
   * <details>
       <summary>

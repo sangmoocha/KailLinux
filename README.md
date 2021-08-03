@@ -4,11 +4,11 @@
 > [virtualbox](https://www.virtualbox.org/)에 [IMAGES](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/#1572305786534-030ce714-cc3b)를 내려받아서 실행하기 때문에 설치 과정은 생략하고 이후 과정부터 작성합니다.
 ### 최신상태 만들기
 ```sh
-  apt update &&
-  apt dist-upgrade -Vy &&
-  apt autoremove -y &&
-  apt autoclean &&
-  apt clean 
+  sudo apt update &&
+  sudo apt dist-upgrade -Vy &&
+  sudo apt autoremove -y &&
+  sudo apt autoclean &&
+  sudo apt clean 
 ```
 * [Roadmap to becoming a web developer in 2020](https://github.com/kamranahmedse/developer-roadmap)
 
