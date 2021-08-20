@@ -1,6 +1,6 @@
 <p align="center"><img src="https://www.kali.org/wp-content/uploads/2020/01/kali-2020.1.png"></p>
 
-# Kali Linux 2020.1 Release
+# Kali Linux 2021.1 Release
 > [virtualbox](https://www.virtualbox.org/)에 [IMAGES](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/#1572305786534-030ce714-cc3b)를 내려받아서 실행하기 때문에 설치 과정은 생략하고 이후 과정부터 작성합니다.
 ### 최신상태 만들기
 ```sh
